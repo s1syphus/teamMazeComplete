@@ -1,0 +1,6 @@
+[submodule "teammaze"]
+	path = teammaze
+	url = git://github.com/s1syphus/teammaze.git
+[submodule "ask-library"]
+	path = ask-library
+	url = https://rmicatka@bitbucket.org/chriscm/ask-scanning-library.git
