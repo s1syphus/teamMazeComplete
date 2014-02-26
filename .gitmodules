@@ -4,3 +4,6 @@
 [submodule "ask-library"]
 	path = ask-library
 	url = https://rmicatka@bitbucket.org/chriscm/ask-scanning-library.git
+[submodule "ask-settings"]
+	path = ask-settings
+	url = https://rmicatka@bitbucket.org/chriscm/ask-settings.git
